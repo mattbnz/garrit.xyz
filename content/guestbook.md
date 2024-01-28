@@ -10,6 +10,14 @@ get redirected to the page editor.
 
 ---
 
+### Matt, on 2024-01-28:
+
+I adopted the [multiple Git identities pattern](https://garrit.xyz/posts/2023-10-13-organizing-multiple-git-identities) to tidy up my work/personal git usage. Very tidy and neat. Thanks for the prompt!
+
+The guestbook idea also seems neat enough that I persisted through the speed-bump of opening a PR, etc too!
+
+-- [Matt](https://mattb.nz/)
+
 ### Adam, on 2024-01-11:
 
 Cool site! I'll have to give the CTF a go when I get a chance.
